@@ -8,6 +8,7 @@ the famous “Haar Cascade Classifier”, used to detect the face and eye. The p
 through which users interact with the detector and see the results.
 4) The detector accurately detects the pupil and tracks it, and also prints direction of sight.
 5) Users can choose to either upload a video or use the webcam for detection.
+
 For more details, please read the mini project report file.
 
 In order to run the project:
